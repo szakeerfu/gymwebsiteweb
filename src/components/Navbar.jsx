@@ -14,7 +14,7 @@ const Navbar = () => {
 
 	const handleNavToggle = () => {
 		return setIsNavShowing((prevVAlue) => {
-			return !isNavShowing;
+			return !prevVAlue;
 		});
 	};
 
