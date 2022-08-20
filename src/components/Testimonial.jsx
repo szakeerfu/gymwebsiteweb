@@ -16,7 +16,6 @@ const Testimonial = () => {
 		setIndex((prevValue) => {
 			return prevValue - 1;
 		});
-		console.log(index);
 		if (index <= 0) {
 			setIndex(testimonials.length - 1);
 		}
