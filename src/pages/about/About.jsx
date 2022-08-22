@@ -16,7 +16,7 @@ const About = () => {
 			<section className="about__story">
 				<div className="container about__story-container">
 					<div className="about__section-image">
-						<img src={StoryImage} alt="Our Story Image" />
+						<img src={StoryImage} alt="OurStoryImage" />
 					</div>
 					<div className="about__section-content">
 						<h1>Our Story</h1>
@@ -57,7 +57,7 @@ const About = () => {
 						</p>
 					</div>
 					<div className="about__section-image">
-						<img src={VisionImage} alt="Vision Image" />
+						<img src={VisionImage} alt="VisionImage" />
 					</div>
 				</div>
 			</section>
@@ -65,7 +65,7 @@ const About = () => {
 			<section className="about__mission">
 				<div className="container about__mission-container">
 					<div className="about__section-image">
-						<img src={MissionImage} alt="Vision Image" />
+						<img src={MissionImage} alt="VisionImage" />
 					</div>
 					<div className="about__section-content">
 						<h1>Our Mission</h1>
