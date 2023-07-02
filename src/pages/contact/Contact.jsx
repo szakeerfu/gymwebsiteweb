@@ -24,14 +24,14 @@ const Contact = () => {
 							<MdEmail />
 						</a>
 						<a
-							href="https://www.facebook.com/eniola.ademola.1610/"
+							 
 							target="_blank"
 							rel="noreferrer noopener"
 						>
 							<BsMessenger />
 						</a>
 						<a
-							href="https://wa.me/+2347013909098"
+						 
 							target="_blank"
 							rel="noreferrer noopener"
 						>

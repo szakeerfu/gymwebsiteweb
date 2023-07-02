@@ -1,9 +1,9 @@
 # DAVEWORLD's GYM
 ![LandingPage](https://user-images.githubusercontent.com/107508295/191951748-b895c770-52de-4f28-9315-d5670387b2ee.png)
 
-## About The Project
+ 
 
-[DAVEWORLD's Gym](https://eniola-gym-portfolio.vercel.app/) is an online website where you get to join the legend of fitness around the world : )
+ 
 
 ## Requirement
 
@@ -37,7 +37,7 @@
 - make sure you have [node](https://nodejs.org/en/download/) installed on your pc, go to your command line and run the command below
 - mkdir gym-portfolio
 - cd gym-portfolio
-- `git clone https://github.com/EniolaAdemola/gym-portfolio.git `
+ 
 - `npm install `
 - `npm start `
 
@@ -47,9 +47,4 @@ This project is basically about me learning about react routing, reuseable compo
 Thanks! if you feel there's anything that can be done to improve the project kindly reach out to me below,
 to see the project [click me](https://eniola-gym-portfolio.vercel.app/)
 
-<!-- CONTACT -->
-## Contact
-
-Eniola Ademola - [@tweet me](https://twitter.com/_daveworld) - it.eniolaademola@gmail.com
-
-Github Repo: [EniolaAdemola/GymPortfolio](https://github.com/EniolaAdemola/gym-portfolio)
+ 

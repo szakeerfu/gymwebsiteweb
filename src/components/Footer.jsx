@@ -21,7 +21,7 @@ const Footer = () => {
 					</p>
 					<div className="footer__socials">
 						<a
-							href="https://www.linkedin.com/in/eniola-ademola-7386161a7/"
+							href= "https://www.linkedin.com/in/shaik-zakeer-husaain-317304267"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
@@ -35,14 +35,14 @@ const Footer = () => {
 							<FaFacebookF />
 						</a>
 						<a
-							href="https://twitter.com/_daveworld"
+							href="https://twitter.com/ "
 							target="_blank"
 							rel="noreferrer noopener"
 						>
 							<AiOutlineTwitter />
 						</a>
 						<a
-							href="https://instagram.com/_daveworld"
+							href="https://instagram.com/ "
 							target="_blank"
 							rel="noreferrer noopener"
 						>
@@ -73,7 +73,7 @@ const Footer = () => {
 				</article>
 			</div>
 			<div className="footer__copyright">
-				<small> &copy; Eniola Ademola </small>
+				<small> &copy; Zakeer </small>
 			</div>
 		</footer>
 	);
